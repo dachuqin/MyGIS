@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Atlas">
+</Property><Property Name="解决方案文件" Value="C:\Users\ASUS\Desktop\底层开发\源程序\Atlas.sln">
+</Property><Property Name="Date" Value="2012年2月20日">
+</Property><Property Name="Time" Value="12:22">
+</Property></Properties><Event ErrorLevel="0" Project="Atlas" Source="Atlas.vcproj" Description="Converting project file 'C:\Users\ASUS\Desktop\底层开发\源程序\Atlas.vcproj'.">
+</Event><Event ErrorLevel="1" Project="Atlas" Source="Atlas.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="1" Project="Atlas" Source="Atlas.vcproj" Description="MSB8012: $(TargetPath) ('C:\Users\ASUS\Desktop\底层开发\源程序\.\Release\Atlas.exe') does not match the Linker's OutputFile property value '.\Release/Atlas.exe' ('C:\Users\ASUS\Desktop\底层开发\源程序\Release/Atlas.exe') in project configuration 'Release|Win32'. This may cause your project to build incorrectly. To correct this, please make sure that $(TargetPath) property value matches the value specified in %(Link.OutputFile).">
+</Event><Event ErrorLevel="1" Project="Atlas" Source="Atlas.vcproj" Description="MSB8012: $(TargetPath) ('C:\Users\ASUS\Desktop\底层开发\源程序\.\Debug\Atlas.exe') does not match the Linker's OutputFile property value '.\Debug/Atlas.exe' ('C:\Users\ASUS\Desktop\底层开发\源程序\Debug/Atlas.exe') in project configuration 'Debug|Win32'. This may cause your project to build incorrectly. To correct this, please make sure that $(TargetPath) property value matches the value specified in %(Link.OutputFile).">
+</Event><Event ErrorLevel="0" Project="Atlas" Source="Atlas.vcproj" Description="Done converting to new project file 'C:\Users\ASUS\Desktop\底层开发\源程序\Atlas.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="Atlas" Source="Atlas.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Atlas.sln" Description="成功转换解决方案">
+</Event><Event ErrorLevel="3" Project="" Source="Atlas.sln" Description="Converted">
+</Event></UpgradeLog>

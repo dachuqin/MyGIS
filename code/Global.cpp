@@ -1,0 +1,28 @@
+// Global.cpp: implementation of the CGlobal class.
+//
+//////////////////////////////////////////////////////////////////////
+
+#include "stdafx.h"
+#include "Atlas.h"
+#include "Global.h"
+
+#ifdef _DEBUG
+#undef THIS_FILE
+static char THIS_FILE[]=__FILE__;
+#define new DEBUG_NEW
+#endif
+
+//////////////////////////////////////////////////////////////////////
+// Construction/Destruction
+//////////////////////////////////////////////////////////////////////
+
+CGlobal::CGlobal()
+{
+
+}
+
+CGlobal::~CGlobal()
+{
+
+}
+CGlobal MyApp;

@@ -1,0 +1,27 @@
+// GeoGrid.cpp: implementation of the CGeoGrid class.
+//
+//////////////////////////////////////////////////////////////////////
+
+#include "stdafx.h"
+#include "Atlas.h"
+#include "GeoGrid.h"
+
+#ifdef _DEBUG
+#undef THIS_FILE
+static char THIS_FILE[]=__FILE__;
+#define new DEBUG_NEW
+#endif
+
+//////////////////////////////////////////////////////////////////////
+// Construction/Destruction
+//////////////////////////////////////////////////////////////////////
+
+CGeoGrid::CGeoGrid()
+{
+
+}
+
+CGeoGrid::~CGeoGrid()
+{
+
+}
